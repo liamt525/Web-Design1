@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SM Reviews</title>
+</head>
+<body>
+<h1>Ski Mountain Reviews</h1>
+<h2>By: Liam Tomaszewski</h2>
+<head>
+<style>
+p.solid {border-style: solid;}
+<body>
+<body style="background-color:blue;">
+<h2>HTML Image</h2>
+<img src="best-ski-resorts-in-japan.jpg" alt="Trulli" width="500" height="333">
+</body>
+</html>
